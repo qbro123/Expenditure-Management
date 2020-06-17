@@ -1,8 +1,10 @@
-package com.pmwsteam.expendituremanagement;
+package com.pmwsteam.expendituremanagement.views.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.pmwsteam.expendituremanagement.R;
 
 public class MainActivity extends AppCompatActivity {
 
